@@ -1,17 +1,22 @@
-:hola: Hola, soy Rodrigo Urquieta
-:cohete: FullStack Developer | Electrónica & IoT
-Soy un FullStack JavaScript Developer con formación en electrónica y experiencia en diseño de PCBs, microcontroladores y automatización. Me apasiona crear soluciones que integren hardware y software, desde aplicaciones web hasta proyectos de robótica y IoT.
-:llave_de_tuerca: Tecnologías y herramientas
-Frontend: React.js, Next.js, TailwindCSS
-Backend: Node.js, Express.js, MongoDB, MySQL
+:wave: Hi, I'm Rodrigo Urquieta
+:rocket: FullStack Developer | Electronics & IoT
+
+I am a FullStack JavaScript Developer with a background in electronics and experience in PCB design, microcontrollers, and automation. I am passionate about creating solutions that integrate hardware and software, from web applications to robotics and IoT projects.
+
+:wrench: Technologies & Tools
+Frontend: React.js, Next.js, Css, BootStrap
+Backend: Node.js, Express.js, postgreSql
 Hardware & IoT: Arduino, Raspberry Pi, ESP32, PLCs
-Diseño: SolidWorks, KiCad, Altium Designer
-:cohete: Proyectos Destacados
-:cara_de_robot: Piri: Robot educativo con sensores y recarga inalámbrica.
-:estofado: Dispensador Inteligente: Robot móvil que dosifica comida a través de un iris mecánico.
-:guitarra: Pedal de Guitarra Digital: Efectos programables con potenciómetros digitales y carga inalámbrica.
-:bombilla: Probador de Circuitos TTL y CMOS: Herramienta para testeo y diagnóstico de circuitos integrados.
-:buzón: Conéctate conmigo
-LinkedIn: Tu Perfil
-Portafolio: [En desarrollo...]
-¡Gracias por visitar mi perfil! :cohete:
+Design: SolidWorks, Eagle, KiCad, Altium Designer, Proteus
+
+:rocket: Current design Featured Projects
+:robot: Piri: Educational robot with sensors and wireless charging.
+:bowl_with_spoon: Smart Dispenser: Mobile robot that dispenses food through a mechanical iris.
+:guitar:  Guitar Pedal: Amp simulator  with multiple effects .
+:bulb: Iot Smart control system.
+
+:mailbox: Connect with Me
+LinkedIn: Your Profile
+Portfolio: [In development...]
+
+Thanks for visiting my profile! :rocket:
