@@ -16,7 +16,7 @@ Design: SolidWorks, Eagle, KiCad, Altium Designer, Proteus
 :bulb: Iot Smart control system.
 
 :mailbox: Connect with Me
-LinkedIn: Your Profile
+LinkedIn: https://www.linkedin.com/in/rodrigo-urquieta-c-11779579
 Portfolio: [In development...]
 
 Thanks for visiting my profile! :rocket:
