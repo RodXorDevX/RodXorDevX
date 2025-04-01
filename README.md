@@ -1,7 +1,8 @@
 :wave: Hi, I'm Rodrigo Urquieta
 :rocket: FullStack Developer | Electronics & IoT
 
-I am a FullStack JavaScript Developer with a background in electronics and experience in PCB design, microcontrollers, and automation. I am passionate about creating solutions that integrate hardware and software, from web applications to robotics and IoT projects.
+I am a FullStack JavaScript Developer with a background in electronics and experience in PCB design, microcontrollers, and automation.
+I am passionate about creating solutions that integrate hardware and software, from web applications to robotics and IoT projects.
 
 :wrench: Technologies & Tools
 Frontend: React.js, Next.js, Css, BootStrap
