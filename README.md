@@ -1,4 +1,4 @@
-![Matrix Animation](https://repository-images.githubusercontent.com/245572380/df273280-6199-11ea-8094-2ed33e74c34f)
+
 :wave: Hi, I'm Rodrigo Urquieta
 :rocket: FullStack Developer | Electronics & IoT
 
