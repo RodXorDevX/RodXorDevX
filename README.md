@@ -1,3 +1,4 @@
+![Matrix Animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 :wave: Hi, I'm Rodrigo Urquieta
 :rocket: FullStack Developer | Electronics & IoT
 
