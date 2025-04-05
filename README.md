@@ -1,12 +1,10 @@
 
 <p align="left">
-  <img src="https://media.giphy.com/media/MCAFTOh1Z6Uqs/giphy.gif" width="100" alt="GitHub"/>
+  
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="HTML"/>
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="JavaScript"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="React"/>
-  <img src="https://media.giphy.com/media/6Z6t1URg39p5e/giphy.gif" width="100" alt="Node.js"/>
-  <img src="https://media.giphy.com/media/Rp8uXgD1tOe3Q/giphy.gif" width="100" alt="npm"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="React"/>  
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" alt="PostgreSQL"/>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 </p>
