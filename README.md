@@ -1,4 +1,4 @@
-![Matrix Animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![Matrix Animation](https://repository-images.githubusercontent.com/245572380/df273280-6199-11ea-8094-2ed33e74c34f)
 :wave: Hi, I'm Rodrigo Urquieta
 :rocket: FullStack Developer | Electronics & IoT
 
