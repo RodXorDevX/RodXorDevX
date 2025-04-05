@@ -1,11 +1,13 @@
-![GitHub](https://media.giphy.com/media/MCAFTOh1Z6Uqs/giphy.gif)
-![HTML](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
-![CSS](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
-![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
-![React](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
-![Node.js](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
-![npm](https://media.giphy.com/media/Rp8uXgD1tOe3Q/giphy.gif)
-![PostgreSQL](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="left">
+  <img src="https://media.giphy.com/media/MCAFTOh1Z6Uqs/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Rp8uXgD1tOe3Q/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+</p>
 :wave: Hi, I'm Rodrigo Urquieta
 :rocket: FullStack Developer | Electronics & IoT
 
