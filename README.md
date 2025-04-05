@@ -9,9 +9,8 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 </p>
 :wave: Hi, I'm Rodrigo Urquieta
-:rocket: FullStack Developer | Electronics Developer & IoT systems
 
-I am a FullStack JavaScript Developer with a background in electronics and experience in PCB design, microcontrollers, and automation.  
+:rocket:I am a FullStack JavaScript Developer Developer | Electronics Developer & IoT systems with a background in electronics and experience in PCB design, microcontrollers, and automation.  
 I´m passionate about creating solutions that integrate hardware and software, from web applications to robotics and IoT projects.
 
 :wrench: Technologies & Tools
